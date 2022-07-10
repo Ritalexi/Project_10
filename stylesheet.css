@@ -646,7 +646,7 @@ margin-right: 10px;
         justify-content: center;
     }
     .img{
-        margin: 10px auto;
+        margin: 20px auto 0px auto;
     }
     .socials{
         justify-content: space-evenly;
