@@ -564,8 +564,9 @@ footer{
     margin-right: 10px;
     line-height: 0px;
 }
-.socials li img:hover{
+.socials svg:hover path{
     cursor: pointer;
+    fill: hsl(12, 88%, 59%);
 }
 .footer li{
     list-style: none;
@@ -608,6 +609,9 @@ form{
 }
 .copyright_mobile{
     display: none;
+}
+ svg{
+    fill: #fff;
 }
 @media screen and (max-width: 980px){
     footer{
