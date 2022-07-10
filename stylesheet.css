@@ -595,6 +595,7 @@ form{
     border-radius: 22px;
     outline: none;
     margin-right: 20px;
+    border: none;
 }
 .email p{
     width: 100%;
